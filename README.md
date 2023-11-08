@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600">
 <h1 align="center">Hi 👋, I'm Katlego Prince mashego</h1>
 <h3 align="center">A passionate back-end developer from South Africa</h3>
 <img align="center" alt="coding" width="100%" src="https://camo.githubusercontent.com/7eb44783ce417ae7261fbcea3b9aa6a71a281326b36e62becd958a685e3b3ab0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966" >
