@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katlegoprince1998" alt="katlegoprince1998" /></a> </p>
 
-- 🔭 I’m currently working on [Student API](https://github.com/katlegoprince1998/student-api)
+- 🔭 I’m currently working on [DevLingoAPI](https://github.com/katlegoprince1998/DevLingoAPI)
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
