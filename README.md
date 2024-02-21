@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katlegoprince1998" alt="katlegoprince1998" /></a> </p>
 
-- 🔭 I’m currently working on [SNB-Second national Bank REST API (Microservices]([https://github.com/katlegoprince1998/DevLingoAPI](https://github.com/katlegoprince1998/SNB-Second-National-Bank--Microservices-)
+- 🔭 I’m currently working on [SNB-Second national Bank REST API (Microservices](https://github.com/katlegoprince1998/SNB-Second-National-Bank--Microservices-)
 
 - 🌱 I’m currently learning **Spring Boot, DSA, Design patterns and DevOps Tools**
 - 🌱 I'm currently enrolled in an **advanced diploma program in computer science**.
