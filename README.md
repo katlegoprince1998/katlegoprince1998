@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on [SNB-Second national Bank REST API (Microservices](https://github.com/katlegoprince1998/SNB-Second-National-Bank--Microservices-)
 
 - 🌱 I’m currently learning **Spring Boot, DSA, Design patterns and DevOps Tools**
-- 🌱 I'm currently enrolled in an **advanced diploma program in computer science**.
+- 🌱 I'm currently enrolled in an **Advanced Diploma program in Computer Science**.
 
-- 💬 Ask me about **React JS and Java**
+- 💬 Ask me about **writing server-side code**
 
 - 📫 How to reach me **katlegomashego37@gmail.com**
 
