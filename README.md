@@ -1,12 +1,4 @@
-## About Me
 
-I am a software developer with a diploma in information technology, currently pursuing an advanced
-diploma in computer science through a university program. My professional focus centers on maintaining
-coding excellence and staying abreast of industry advancements. Alongside my technical pursuits, I find
-value in the intellectual stimulation provided by literature. Particularly, "The Road Ahead" by Bill Gates and
-"Atomic Habits" by James Clear stand as impactful sources of insight into visionary thinking and personal
-development strategies. My commitment to excellence extends to both my academic pursuits and my
-dedication to staying informed within the ever-evolving landscape of computer science.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Katlego Prince Mashego</h1>
@@ -18,6 +10,16 @@ dedication to staying informed within the ever-evolving landscape of computer sc
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katlegoprince1998" alt="katlegoprince1998" /></a> </p>
 
 - 🔭 I’m currently working on [SNB-Second national Bank REST API (Microservices](https://github.com/katlegoprince1998/SNB-Second-National-Bank--Microservices-)
+
+## 📫 About Me 📫
+
+I am a software developer with a diploma in information technology, currently pursuing an advanced
+diploma in computer science through a university program. My professional focus centers on maintaining
+coding excellence and staying abreast of industry advancements. Alongside my technical pursuits, I find
+value in the intellectual stimulation provided by literature. Particularly, "The Road Ahead" by Bill Gates and
+"Atomic Habits" by James Clear stand as impactful sources of insight into visionary thinking and personal
+development strategies. My commitment to excellence extends to both my academic pursuits and my
+dedication to staying informed within the ever-evolving landscape of computer science.
 
 - 🌱 I’m currently learning **Spring Boot, DSA, Design patterns and DevOps Tools**
 - 🌱 I'm currently enrolled in an **Advanced Diploma program in Computer Science**.
