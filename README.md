@@ -1,3 +1,13 @@
+## About Me
+
+I am a software developer with a diploma in information technology, currently pursuing an advanced
+diploma in computer science through a university program. My professional focus centers on maintaining
+coding excellence and staying abreast of industry advancements. Alongside my technical pursuits, I find
+value in the intellectual stimulation provided by literature. Particularly, "The Road Ahead" by Bill Gates and
+"Atomic Habits" by James Clear stand as impactful sources of insight into visionary thinking and personal
+development strategies. My commitment to excellence extends to both my academic pursuits and my
+dedication to staying informed within the ever-evolving landscape of computer science.
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Katlego Prince Mashego</h1>
 <h3 align="center">Software Developer</h3>
