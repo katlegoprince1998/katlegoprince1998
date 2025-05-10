@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Startup: Quantum Data Analytics (QDA)
+### 🚀 Startup: Quantum Digital Applications (QDA)
 
 I’m the founder of **Quantum Data Analytics (QDA)** – a tech-forward startup focused on building data-driven, cloud-native SaaS products. Our mission is to help businesses harness the power of data and automation through modern, scalable solutions.
 
