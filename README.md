@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Katlego Prince Mashego</h1>
-<h3 align="center">Quantum Digital Applications | Software Developer | Cloud Enthusiast</h3>
+<h3 align="center">Founder of Quantum Digital Applications | Software Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <em>“Building scalable solutions for the future, one microservice at a time.”</em>
