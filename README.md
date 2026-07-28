@@ -131,9 +131,7 @@ public class KatlegoMashego implements BackendEngineer {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katlegoprince1998)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-49C5B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.example.com)
-[![Email](https://img.shields.io/badge/Email-E8A33D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/katlego-mashego-2908483a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 </div>
 
