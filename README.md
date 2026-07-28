@@ -1,154 +1,275 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Katlego Prince Mashego</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:1a2a4a,100:49C5B6&height=260&section=header&text=Katlego%20Mashego&fontSize=54&fontColor=E8A33D&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Angular&descAlignY=58&descSize=18&descColor=E7ECF5&animation=fadeIn" width="100%" alt="Profile banner"/>
 
-<h3 align="center">
-Backend Software Engineer • Java • Spring Boot • Angular • TypeScript
-</h3>
+<br/>
 
-<p align="center">
-  <em>"Building scalable, secure and cloud-native backend systems."</em>
-</p>
+<img src="https://via.placeholder.com/150x150.png?text=KM" width="140" style="border-radius:50%;" alt="Katlego Mashego profile photo placeholder"/>
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
-
-I'm a Backend Software Engineer passionate about designing scalable, secure, and maintainable enterprise applications.
-
-My primary expertise is building backend systems with **Java** and **Spring Boot**, while also developing modern web applications using **Angular** and **TypeScript**.
-
-I enjoy creating reusable libraries, REST APIs, developer tools, and production-ready microservices that follow clean architecture and best practices.
-
-- 💼 Backend Software Engineer
-- ☕ Specializing in Java & Spring Boot
-- 🏗️ Passionate about Microservices & Distributed Systems
-- 🌱 Currently learning Cloud Native Java, Kubernetes & Event-Driven Architecture
-- 🚀 Building open-source Java libraries and Spring Boot starters
-- 📫 Reach me at **katlegomashego37@gmail.com**
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/katlego-prince-mashego" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Katlego%20Mashego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/katlegoprince1998">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=49C5B6&center=true&vCenter=true&width=640&lines=Backend+Software+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+Enterprise+Systems;Open+Source+%40+ZA+Validator;Angular+%2B+TypeScript+on+the+side" alt="Typing SVG" />
 </a>
-</p>
 
----
+<br/><br/>
 
-# 🚀 Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F17?style=for-the-badge&logo=vercel&logoColor=E8A33D)](https://your-portfolio-url.example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=49C5B6)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:your.email@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/katlegoprince1998?style=for-the-badge&color=49C5B6&labelColor=0B0F17)](https://github.com/katlegoprince1998)
 
-## ☕
+</div>
 
-### Java Ecosystem
+<br/>
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+**☕ Java Ecosystem**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
+**🏗️ Backend Development**
 
-## 🏗 Backend Development
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1E8A6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native-4285F4?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge)
-![Bean Validation](https://img.shields.io/badge/Bean_Validation-4CAF50?style=for-the-badge)
+**🌐 Frontend**
 
----
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🗄 Databases
+**🗄️ Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**☁️ Cloud &amp; DevOps**
 
-## 🌐 Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## ☁ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+</div>
 
-## 🔨 Currently Building
+<br/>
 
-- 🇿🇦 ZA Validator – Enterprise Java validation library for South African applications
-- 💳 Spring Payment Gateway Starter – Spring Boot starter supporting retries, idempotency and multiple payment providers
-- 🚀 Spring Boot API Template – Production-ready enterprise REST API template
+## 🧭 About Me
 
----
+```java
+public class KatlegoMashego implements BackendEngineer {
 
-## 📚 Currently Learning
+    private final String role   = "Backend Software Engineer";
+    private final String[] core = {"Java", "Spring Boot", "Angular", "TypeScript"};
 
-- Distributed Systems
-- Event-Driven Architecture
-- Cloud Native Java
-- Kubernetes
-- Software Architecture
-- Open Source Development
+    @Override
+    public String mission() {
+        return "Building scalable, secure and maintainable enterprise applications.";
+    }
+}
+```
 
----
+- 🛠️ I specialize in **Java** and **Spring Boot**, and also build modern web apps with **Angular** and **TypeScript**.
+- 🏗️ I enjoy designing clean architectures, REST APIs, reusable Java libraries, developer tools, and open-source projects.
+- 📚 Passionate about clean code, software architecture, distributed systems, cloud-native development, and continuous learning.
+- 🇿🇦 Based in South Africa, building for both local and global engineering teams.
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Core Focus
+
+- Enterprise backend development
+- Java &amp; Spring Boot
+- REST API design &amp; delivery
+- SQL development
+- Authentication &amp; Authorization
+- Docker &amp; Git
+- Angular &amp; TypeScript
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Delivered On
+
+- Enterprise booking systems
+- Payment integrations
+- API development
+- Backend architecture
+- Production support
+- CI/CD pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌱 Open Source
+
+| Project | Description |
+|---|---|
+| 🇿🇦 **ZA Validator** | Java validation library for South African data formats |
+| 💳 **Payment Gateway Starter** | Spring Boot starter for multi-provider payment integrations |
+| 🧩 **Spring Boot Utilities** | Reusable utility library for common Spring Boot needs |
+| 📐 **Java Design Patterns** | Reference implementations of classic design patterns in Java |
+
+<br/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=katlegoprince1998&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=katlegoprince1998&show_icons=true&count_private=true&hide_border=true&title_color=E8A33D&icon_color=49C5B6&text_color=E7ECF5&bg_color=0B0F17" alt="Katlego's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlegoprince1998&layout=compact&hide_border=true&title_color=E8A33D&text_color=E7ECF5&bg_color=0B0F17" alt="Top languages"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlegoprince1998&layout=compact&theme=tokyonight"/>
+<br/>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=katlegoprince1998&hide_border=true&background=0B0F17&ring=49C5B6&fire=E8A33D&currStreakLabel=E7ECF5&sideLabels=E7ECF5&dates=8B93A7" alt="GitHub streak stats"/>
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=katlegoprince1998&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=katlegoprince1998&bg_color=0B0F17&color=E7ECF5&line=49C5B6&point=E8A33D&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
-</p>
+</div>
 
----
+<br/>
 
-## 💡 Areas of Interest
+<div align="center">
 
-- Enterprise Java
-- Spring Boot
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Microservices
-- Cloud Native Applications
-- Distributed Systems
-- REST API Design
-- Backend Performance
-- API Security
-- Open Source
-- Software Architecture
+### 🐍 Contribution Snake
 
----
+<img src="https://raw.githubusercontent.com/katlegoprince1998/katlegoprince1998/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation placeholder"/>
 
-<p align="center">
-⭐ Always interested in collaborating on Java, Spring Boot and open-source projects.
-</p>
+<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to activate it.</sub>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=katlegoprince1998&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies"/>
+
+</div>
+
+<br/>
+
+## 🎯 Skills Matrix
+
+| Skill | Proficiency |
+|---|---|
+| Java | ████████████████░░ 90% |
+| Spring Boot | ███████████████████░ 92% |
+| Spring Security | ███████████████░░░░ 80% |
+| REST API Design | █████████████████░░ 88% |
+| Microservices | ████████████████░░░ 80% |
+| PostgreSQL / SQL Server | █████████████████░░ 85% |
+| Angular &amp; TypeScript | ███████████████░░░░ 78% |
+| Docker | ███████████████░░░░ 75% |
+
+<br/>
+
+## 📚 Current Learning
+
+<div align="center">
+
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-49C5B6?style=for-the-badge&logo=apache&logoColor=white)
+![Event Driven Architecture](https://img.shields.io/badge/Event%20Driven%20Architecture-49C5B6?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Cloud Native Java](https://img.shields.io/badge/Cloud%20Native%20Java-E8A33D?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🎓 Certification Roadmap
+
+```
+┌────────────────────────────────┐   ┌────────────────────────────────┐   ┌────────────────────────────────┐
+│   ☕ Oracle Java Certification   │──▶│  🍃 Spring Professional Cert   │──▶│      ☁️ AWS Certification        │
+│           Planned                │   │           Planned              │   │           Planned               │
+└────────────────────────────────┘   └────────────────────────────────┘   └────────────────────────────────┘
+```
+
+<br/>
+
+## 🗺️ Professional Timeline
+
+```
+2019 ──● Software Engineer
+        │   Starting point of a career built around solving real engineering problems.
+        │
+2020 ──● Enterprise Development
+        │   Working within large-scale enterprise codebases and delivery processes.
+        │
+2022 ──● Backend Engineering
+        │   Focusing deliberately on backend systems, APIs and architecture.
+        │
+2024 ──● Open Source Libraries
+        │   Publishing reusable, production-grade Java libraries and starters.
+        │
+2026 ──● Building Java Ecosystem
+            Contributing tools and templates that support the wider Java community.
+```
+
+<br/>
+
+## ✍️ Blog
+
+<div align="center">
+
+📝 Writing about backend architecture, Spring Boot, and open source is next on the roadmap — check back soon, or follow along on [LinkedIn](https://linkedin.com/in/your-linkedin-handle).
+
+</div>
+
+<br/>
+
+## 📬 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katlegoprince1998)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-49C5B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.example.com)
+[![Email](https://img.shields.io/badge/Email-E8A33D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=katlegoprince1998&label=Profile%20Views&color=49c5b6&style=for-the-badge" alt="Profile views counter"/>
+
+<br/><br/>
+
+<sub>Built with ☕ Java, 🍃 Spring Boot, and a lot of `git commit`.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:49C5B6,100:0B0F17&height=100&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
