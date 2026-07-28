@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=49C5B6)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=49C5B6)]([https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/katlego-mashego-2908483a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![GitHub followers](https://img.shields.io/github/followers/katlegoprince1998?style=for-the-badge&color=49C5B6&labelColor=0B0F17)](https://github.com/katlegoprince1998)
 
 </div>
