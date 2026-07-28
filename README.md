@@ -14,9 +14,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F17?style=for-the-badge&logo=vercel&logoColor=E8A33D)](https://your-portfolio-url.example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=49C5B6)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:your.email@example.com)
 [![GitHub followers](https://img.shields.io/github/followers/katlegoprince1998?style=for-the-badge&color=49C5B6&labelColor=0B0F17)](https://github.com/katlegoprince1998)
 
 </div>
@@ -75,7 +73,7 @@
 ```java
 public class KatlegoMashego implements BackendEngineer {
 
-    private final String role   = "Backend Software Engineer";
+    private final String role   = "Software Engineer";
     private final String[] core = {"Java", "Spring Boot", "Angular", "TypeScript"};
 
     @Override
@@ -131,123 +129,9 @@ public class KatlegoMashego implements BackendEngineer {
 | Project | Description |
 |---|---|
 | 🇿🇦 **ZA Validator** | Java validation library for South African data formats |
-| 💳 **Payment Gateway Starter** | Spring Boot starter for multi-provider payment integrations |
-| 🧩 **Spring Boot Utilities** | Reusable utility library for common Spring Boot needs |
-| 📐 **Java Design Patterns** | Reference implementations of classic design patterns in Java |
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=katlegoprince1998&show_icons=true&count_private=true&hide_border=true&title_color=E8A33D&icon_color=49C5B6&text_color=E7ECF5&bg_color=0B0F17" alt="Katlego's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlegoprince1998&layout=compact&hide_border=true&title_color=E8A33D&text_color=E7ECF5&bg_color=0B0F17" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=katlegoprince1998&hide_border=true&background=0B0F17&ring=49C5B6&fire=E8A33D&currStreakLabel=E7ECF5&sideLabels=E7ECF5&dates=8B93A7" alt="GitHub streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=katlegoprince1998&bg_color=0B0F17&color=E7ECF5&line=49C5B6&point=E8A33D&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/katlegoprince1998/katlegoprince1998/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation placeholder"/>
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to activate it.</sub>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=katlegoprince1998&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies"/>
-
-</div>
-
-<br/>
-
-## 🎯 Skills Matrix
-
-| Skill | Proficiency |
-|---|---|
-| Java | ████████████████░░ 90% |
-| Spring Boot | ███████████████████░ 92% |
-| Spring Security | ███████████████░░░░ 80% |
-| REST API Design | █████████████████░░ 88% |
-| Microservices | ████████████████░░░ 80% |
-| PostgreSQL / SQL Server | █████████████████░░ 85% |
-| Angular &amp; TypeScript | ███████████████░░░░ 78% |
-| Docker | ███████████████░░░░ 75% |
-
-<br/>
-
-## 📚 Current Learning
-
-<div align="center">
-
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-49C5B6?style=for-the-badge&logo=apache&logoColor=white)
-![Event Driven Architecture](https://img.shields.io/badge/Event%20Driven%20Architecture-49C5B6?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Cloud Native Java](https://img.shields.io/badge/Cloud%20Native%20Java-E8A33D?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🎓 Certification Roadmap
-
-```
-┌────────────────────────────────┐   ┌────────────────────────────────┐   ┌────────────────────────────────┐
-│   ☕ Oracle Java Certification   │──▶│  🍃 Spring Professional Cert   │──▶│      ☁️ AWS Certification        │
-│           Planned                │   │           Planned              │   │           Planned               │
-└────────────────────────────────┘   └────────────────────────────────┘   └────────────────────────────────┘
-```
-
-<br/>
-
-## 🗺️ Professional Timeline
-
-```
-2019 ──● Software Engineer
-        │   Starting point of a career built around solving real engineering problems.
-        │
-2020 ──● Enterprise Development
-        │   Working within large-scale enterprise codebases and delivery processes.
-        │
-2022 ──● Backend Engineering
-        │   Focusing deliberately on backend systems, APIs and architecture.
-        │
-2024 ──● Open Source Libraries
-        │   Publishing reusable, production-grade Java libraries and starters.
-        │
-2026 ──● Building Java Ecosystem
-            Contributing tools and templates that support the wider Java community.
-```
-
-<br/>
-
-## ✍️ Blog
-
-<div align="center">
-
-📝 Writing about backend architecture, Spring Boot, and open source is next on the roadmap — check back soon, or follow along on [LinkedIn](https://linkedin.com/in/your-linkedin-handle).
-
-</div>
-
-<br/>
 
 ## 📬 Contact
 
