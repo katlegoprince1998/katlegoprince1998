@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://via.placeholder.com/150x150.png?text=KM" width="140" style="border-radius:50%;" alt="Katlego Mashego profile photo placeholder"/>
-
-<br/><br/>
-
 <a href="https://github.com/katlegoprince1998">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=49C5B6&center=true&vCenter=true&width=640&lines=Backend+Software+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+Enterprise+Systems;Open+Source+%40+ZA+Validator;Angular+%2B+TypeScript+on+the+side" alt="Typing SVG" />
 </a>
