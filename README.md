@@ -1,72 +1,154 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Katlego Prince Mashego</h1>
-<h3 align="center">Founder of Quantum Digital Applications | Software Developer | Cloud Enthusiast</h3>
+
+<h3 align="center">
+Backend Software Engineer • Java • Spring Boot • Angular • TypeScript
+</h3>
 
 <p align="center">
-  <em>“Building scalable solutions for the future, one microservice at a time.”</em>
+  <em>"Building scalable, secure and cloud-native backend systems."</em>
 </p>
 
 ---
 
-### 🚀 Startup: Quantum Digital Applications (QDA)
+## 👨‍💻 About Me
 
-I’m the founder of **Quantum Digital Applications (QDA)** – a tech-forward startup focused on building data-driven, cloud-native SaaS products. Our mission is to help businesses harness the power of data and automation through modern, scalable solutions.
+I'm a Backend Software Engineer passionate about designing scalable, secure, and maintainable enterprise applications.
 
-We're currently developing our first product:  
-### 🧠 **SilentScribe – AI-Powered Meeting Transcriber & Summarizer**  
-An intelligent SaaS platform that records, transcribes, summarizes meetings and tracks team accountability. SilentScribe leverages AI to enhance collaboration and boost productivity.
+My primary expertise is building backend systems with **Java** and **Spring Boot**, while also developing modern web applications using **Angular** and **TypeScript**.
 
-🔗 [Visit SilentScribe Project Repo (Coming Soon)](https://github.com/katlegoprince1998)
+I enjoy creating reusable libraries, REST APIs, developer tools, and production-ready microservices that follow clean architecture and best practices.
 
----
-
-### 👨🏽‍💻 About Me
-
-I'm a passionate software developer with a diploma in Information Technology, currently pursuing an **Advanced Diploma in Computer Science**. I focus on clean, scalable architecture and building backends that are reliable, secure, and cloud-deployable.
-
-- 🔭 Currently building **SilentScribe** & **SNB Microservices REST API**
-- 🌱 Learning: `Spring Boot`, `DevOps`, `System Design`, `DSA`
-- 💬 Ask me about: `MERN`, `MEAN`, `Java & Spring`, `Microservices`, `Docker`, `Kubernetes`
-- 📧 Reach me at: **katlegomashego37@gmail.com**
-- 📚 Book Interests: *The Road Ahead*, *Atomic Habits*
-- ⚡ Fun fact: I can't write code without chewing something!
+- 💼 Backend Software Engineer
+- ☕ Specializing in Java & Spring Boot
+- 🏗️ Passionate about Microservices & Distributed Systems
+- 🌱 Currently learning Cloud Native Java, Kubernetes & Event-Driven Architecture
+- 🚀 Building open-source Java libraries and Spring Boot starters
+- 📫 Reach me at **katlegomashego37@gmail.com**
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Katlego%20Mashego-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/katlego-prince-mashego)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/katlego%20prince%20mashego)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/katlegoprince1998)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-`Java` • `C#` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Spring Boot` • `ASP.NET Core` • `Node.js` • `React` • `Angular` • `MongoDB` • `Express.js`
-
-**Tools & Platforms**  
-`Docker` • `Kubernetes` • `Git` • `GitHub Actions` • `Postman` • `Visual Studio Code` • `Jenkins` • `MySQL` • `SQL Server` • `MongoDB Atlas`
-
-**Cloud & DevOps**  
-`AWS (Certified)` • `CI/CD Pipelines` • `Microservice Architecture` • `Linux` • `REST APIs`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katlegoprince1998&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlegoprince1998&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katlegoprince1998&theme=tokyonight" width="60%" />
+<p align="left">
+<a href="https://linkedin.com/in/katlego-prince-mashego" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-Katlego%20Mashego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-📌 *Always open to collaboration, mentoring, and building impactful products. Let's connect!*
+# 🚀 Tech Stack
 
+## ☕
+
+### Java Ecosystem
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+
+---
+
+## 🏗 Backend Development
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-4285F4?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge)
+![Bean Validation](https://img.shields.io/badge/Bean_Validation-4CAF50?style=for-the-badge)
+
+---
+
+## 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## 🌐 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## ☁ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔨 Currently Building
+
+- 🇿🇦 ZA Validator – Enterprise Java validation library for South African applications
+- 💳 Spring Payment Gateway Starter – Spring Boot starter supporting retries, idempotency and multiple payment providers
+- 🚀 Spring Boot API Template – Production-ready enterprise REST API template
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Event-Driven Architecture
+- Cloud Native Java
+- Kubernetes
+- Software Architecture
+- Open Source Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=katlegoprince1998&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlegoprince1998&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=katlegoprince1998&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Areas of Interest
+
+- Enterprise Java
+- Spring Boot
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microservices
+- Cloud Native Applications
+- Distributed Systems
+- REST API Design
+- Backend Performance
+- API Security
+- Open Source
+- Software Architecture
+
+---
+
+<p align="center">
+⭐ Always interested in collaborating on Java, Spring Boot and open-source projects.
+</p>
