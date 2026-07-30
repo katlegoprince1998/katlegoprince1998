@@ -113,11 +113,6 @@ class KatlegoMashego(DataEngineer):
 
 <br/>
 
-## 🌱 Open Source
-
-| Project | Description |
-|---|---|
-| 🇿🇦 **ZA Validator** | Java validation library for South African data formats |
 
 <br/>
 
