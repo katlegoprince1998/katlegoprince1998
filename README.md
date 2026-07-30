@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**Data & Software Engineer**
+**Data Engineering & Warehousing**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,6 +49,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 </div>
 
@@ -111,7 +113,11 @@ class KatlegoMashego(DataEngineer):
 
 <br/>
 
+## 🌱 Open Source
 
+| Project | Description |
+|---|---|
+| 🇿🇦 **ZA Validator** | Java validation library for South African data formats |
 
 <br/>
 
