@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:1a2a4a,100:49C5B6&height=260&section=header&text=Katlego%20Mashego&fontSize=54&fontColor=E8A33D&fontAlignY=38&desc=Data%20Engineer%20%7C%20SQL%20%C2%B7%20ETL%2FELT%20%C2%B7%20Data%20Warehousing&descAlignY=58&descSize=18&descColor=E7ECF5&animation=fadeIn" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:1a2a4a,100:49C5B6&height=260&section=header&text=Katlego%20Mashego&fontSize=54&fontColor=E8A33D&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%C2%B7%20C%23%2F.NET%20%C2%B7%20Banking&descAlignY=58&descSize=18&descColor=E7ECF5&animation=fadeIn" width="100%" alt="Profile banner"/>
 
 <br/>
 
 <a href="https://github.com/katlegoprince1998">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=49C5B6&center=true&vCenter=true&width=640&lines=Data+Engineer;Building+ETL%2FELT+Pipelines+at+Scale;SQL+Server+%2B+Medallion+Architecture;Bronze+%E2%86%92+Silver+%E2%86%92+Gold;Java+%26+Spring+Boot+on+the+side" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=49C5B6&center=true&vCenter=true&width=640&lines=Software+Engineer;Building+Backend+Systems+for+Banking;Java+17%2F21+%2B+Spring+Boot;Microservices+%2B+OpenShift;Spring+AI+%26+RAG+on+the+side" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,38 +19,39 @@
 
 <div align="center">
 
-**Data Engineering & Warehousing**
+**Backend**
+
+![Java](https://img.shields.io/badge/Java%2017%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud Config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20%26%20SOAP%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1E8A6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-1E8A6B?style=for-the-badge&logo=databricks&logoColor=white)
 
-**ETL/ELT & Orchestration**
+**AI & Intelligent Applications**
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-49C5B6?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-49C5B6?style=for-the-badge&logo=openai&logoColor=white)
 
-**Cloud & DevOps**
+**Frontend**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Backend & Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**DevOps & Cloud**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -58,61 +59,52 @@
 
 ## 🧭 About Me
 
-```python
-class KatlegoMashego(DataEngineer):
+```java
+public class KatlegoMashego extends SoftwareEngineer {
 
-    role = "Data Engineer"
-    core = ["SQL Server", "Python", "ETL/ELT", "Data Warehousing"]
+    String role = "Software Engineer";
+    String[] core = {"Java 17/21", "Spring Boot", "C# / .NET", "Microservices"};
 
-    def mission(self) -> str:
-        return (
-            "Designing reliable Bronze -> Silver -> Gold pipelines "
-            "that turn messy operational data into trustworthy analytics."
-        )
+    public String mission() {
+        return "Delivering secure, high-quality backend systems and enterprise "
+             + "integrations for the banking industry.";
+    }
+}
 ```
 
-- 🏗️ I design and build **data warehouses** using the **Medallion Architecture** (Bronze → Silver → Gold), mostly on **SQL Server**.
-- 🔄 I build **ETL/ELT pipelines** that ingest raw, messy operational extracts from multiple source systems and transform them into clean, analytics-ready models.
-- 🐍 I use **Python** (pandas, numpy) for data generation, profiling, and transformation logic, alongside **T-SQL** for warehouse modeling.
-- 📊 Interested in data modeling, dimensional design (star/snowflake schemas), data quality frameworks, and building pipelines that hold up against real-world dirty data.
-- 🇿🇦 Based in South Africa, building data platforms for local and global teams.
+- 🏦 Software Engineer specializing in **Java (Spring Boot)** and **C#/.NET**, building enterprise-grade backend applications for the **banking industry**.
+- 🧩 Skilled in **scalable microservices**, **RESTful & SOAP APIs**, enterprise integrations, and cloud-native deployments on **OpenShift** with **Spring Cloud Config Server**.
+- 🤖 Exploring **Spring AI** and **Retrieval-Augmented Generation (RAG)** to build LLM-powered backend services.
+- 🗄️ Comfortable across the stack — from **SQL Server / PostgreSQL** database design to **React.js/TypeScript** frontends.
+- 🇿🇦 Based in South Africa.
 
 <br/>
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Software Engineer — First National Bank** · *Apr 2024 – Present*
+- Decoupled and containerised UI components into micro-frontends for independent, faster releases
+- Converted SOAP services into REST APIs, simplifying frontend integration
+- Upgraded legacy backend services to Java 17 for improved performance and security
+- Led four backend projects in C# (.NET) from development through production
+- Designed and normalised relational databases for data integrity and query efficiency
+- Led seven projects through successful OpenShift deployment
+- Designed enterprise integrations for employee access-card payment services
+- Managed centralized application configuration via Spring Cloud Config Server
 
-### 🔧 Core Focus
-
-- Data warehouse design (Medallion Architecture)
-- ETL/ELT pipeline development
-- SQL Server & T-SQL
-- Data modeling & dimensional design
-- Data quality & validation
-- Python for data engineering
-- Backend development (Java/Spring Boot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Delivered On
-
-- Bronze/Silver/Gold data warehouses
-- Multi-source raw data ingestion
-- Data cleansing & transformation pipelines
-- Enterprise backend & API integrations
-- Payment & transactional data processing
-- CI/CD pipelines
-
-</td>
-</tr>
-</table>
+**Software Developer — Nkgwete IT Solutions** · *July 2022 – Mar 2024*
+- Led the migration of legacy PHP Laravel systems to modern Java Spring Boot microservices
+- Designed end-to-end internal systems: Employee Management, Leave Management, Employee Contracts
+- Owned full solution design from database schema (MySQL/PostgreSQL/SQL Server) to RESTful API and business logic
+- Introduced architectural improvements — layered architecture, DTO mapping, improved error handling and logging
+- Led modules independently from requirements gathering to deployment
 
 <br/>
 
+## 🎓 Education & Certifications
+
+- **Diploma in Information Technology (Software Development)** — Tshwane University of Technology (TUT), 2019 – 2022
+- **AWS Certified Cloud Practitioner** — Amazon Web Services
 
 <br/>
 
@@ -131,7 +123,7 @@ class KatlegoMashego(DataEngineer):
 
 <br/><br/>
 
-<sub>Built with 🗄️ SQL Server, 🐍 Python, and a lot of `git commit`.</sub>
+<sub>Built with ☕ Java, 🏦 Spring Boot, and a lot of `git commit`.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:49C5B6,100:0B0F17&height=100&section=footer" width="100%" alt="Footer wave"/>
 
